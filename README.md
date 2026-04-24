@@ -1,5 +1,8 @@
 # DevOps Capstone Project
 
+![Build Status](https://github.com/KevinBanegasUNITEC/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+
 ```bash
 source bin/setup.sh
 ```
